@@ -1,0 +1,3 @@
+﻿  pr11_1.cpp
+LINK : fatal error LNK1168: не удается открыть D:\Універ\Програмування\pr11_1\Debug\pr11_1.exe для записи
+D:\Програми\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(810,5): error MSB6006: "link.exe" завершилась с кодом 1168.
